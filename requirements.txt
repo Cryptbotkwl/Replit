@@ -1,0 +1,14 @@
+fastapi==0.115.2
+uvicorn==0.32.0
+python-telegram-bot==20.7
+ccxt==4.4.92
+pandas==2.2.3
+numpy==2.1.2
+polars==1.7.1
+scikit-learn==1.5.2
+python-dotenv==1.0.1
+psutil==6.1.0
+requests==2.32.3
+pytz
+telegram
+pandas_ta
